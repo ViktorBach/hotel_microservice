@@ -1,0 +1,18 @@
+[
+    {
+        "GuestID": 1,
+        "Firstname": "John",
+        "Lastname": "Doe",
+        "Email": "john.doe@example.com",
+        "Phone": 1234567890,
+        "LoyaltyPoints": 100
+    },
+    {
+        "GuestID": 2,
+        "Firstname": "Jane",
+        "Lastname": "Smith",
+        "Email": "jane.smith@example.com",
+        "Phone": 9876543210,
+        "LoyaltyPoints": 150
+    }
+]
